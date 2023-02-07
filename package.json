@@ -13,5 +13,8 @@
     "@babel/preset-env": "^7.20.2",
     "babel-jest": "^29.4.1",
     "jest": "^29.4.1"
+  },
+  "dependencies": {
+    "sr-console": "^1.1.7"
   }
 }
